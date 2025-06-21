@@ -1,0 +1,6 @@
+streamlit~=1.43.2
+pandas~=2.2.3
+yfinance~=0.2.63
+numpy~=2.2.3
+prophet~=1.1.7
+scikit-learn~=1.7.0
